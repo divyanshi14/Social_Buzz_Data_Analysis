@@ -17,9 +17,11 @@ Analysis and identification of the top 5 most popular content categories
 1️⃣ Improved Data Quality:
 Thorough data cleaning for accuracy, consistency, and reliability
 Enhancing data quality for meaningful analysis and decision-making
+
 2️⃣ Effective Data Merging:
 Merging relevant data from different sources to facilitate comprehensive analysis
 Seamless integration of data to meet analytical requirements
+
 3️⃣ Comprehensive Analysis:
 Content analysis, reaction type analysis, sentimental analysis, category analysis, descriptive analysis, and temporal analysis
 Uncovering valuable insights into trends, patterns, and user preferences
