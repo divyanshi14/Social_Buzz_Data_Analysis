@@ -1,4 +1,5 @@
 # Social_Buzz_Data_Analysis
+Social Buzz is a fastest growing technology unicorn that need to adaptquickly to its global scale.
 
 ✨ **Summary:**
 
