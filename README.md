@@ -29,9 +29,13 @@ Uncovering valuable insights into trends, patterns, and user preferences
 💡 **Key Findings:**
 
 Dataset preparation involved merging columns from Reaction, Content, and Reaction Types datasets using pandas merge operation.
+
 Top 5 performing content categories were identified using pandas' nlargest function.
+
 The dataset spanned from June 18, 2020, to June 18, 2021, with 24,573 unique values.
+
 Photos accounted for 26.8% of the content, while audio content represented 23.0%.
+
 Sentiment scores varied across categories, with "Animals" having the highest mean score and "Veganism" the lowest.
 
 📈 **Insights:**
