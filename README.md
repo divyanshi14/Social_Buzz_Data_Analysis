@@ -37,4 +37,4 @@ This project provided valuable insights into social media engagement, content ty
 
 **Dashboard**
 
-![Social Buzz Dashboard]()
+![Social Buzz Dashboard](https://github.com/divyanshi14/Social_Buzz_Data_Analysis/blob/main/Social%20Buzz%20Dashboard.png)
