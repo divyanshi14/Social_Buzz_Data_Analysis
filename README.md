@@ -15,22 +15,25 @@ Analysis and identification of the top 5 most popular content categories
 ✨ **Methodology:**
 
 1️⃣ Improved Data Quality:
-Thorough data cleaning for accuracy, consistency, and reliability
-Enhancing data quality for meaningful analysis and decision-making
+Thorough data cleaning for accuracy, consistency, and reliability.
+
+Enhancing data quality for meaningful analysis and decision-making.
 
 2️⃣ Effective Data Merging:
-Merging relevant data from different sources to facilitate comprehensive analysis
-Seamless integration of data to meet analytical requirements
+Merging relevant data from different sources to facilitate comprehensive analysis.
+
+Seamless integration of data to meet analytical requirements.
 
 3️⃣ Comprehensive Analysis:
-Content analysis, reaction type analysis, sentimental analysis, category analysis, descriptive analysis, and temporal analysis
-Uncovering valuable insights into trends, patterns, and user preferences
+Content analysis, reaction type analysis, sentimental analysis, category analysis, descriptive analysis, and temporal analysis.
+
+Uncovering valuable insights into trends, patterns, and user preferences.
 
 💡 **Key Findings:**
 
-Dataset preparation involved merging columns from Reaction, Content, and Reaction Types datasets using pandas merge operation.
+Dataset preparation involved merging columns from Reaction, Content, and Reaction Types datasets using Excel VLookuop formula.
 
-Top 5 performing content categories were identified using pandas' nlargest function.
+Top 5 performing content categories were identified.
 
 The dataset spanned from June 18, 2020, to June 18, 2021, with 24,573 unique values.
 
